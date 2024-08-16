@@ -3,6 +3,8 @@
 ## Overview
 This application is a simple web-based tool built using Flask, allowing users to search for files and images directly from the web. Users can enter a search query and select the type of files they want to search for, such as PDFs, DOCs, images, etc. The results are displayed in the form of clickable links and images.
 
+https://github.com/user-attachments/assets/0983bf98-7b11-439c-b3fb-92ed92e91f94
+
 ## Features
 - **Search Files**: Users can search for various file types, including PDFs, DOCs, DOCXs, XLSs, XLSXs, PPTs, and PPTXs.
 - **Search Images**: Users can search for images based on the entered query.
